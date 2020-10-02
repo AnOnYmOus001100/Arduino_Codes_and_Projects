@@ -1,10 +1,10 @@
 ### Instructions:
 
-`1. Make the connections of the bluetooth module (HC-05 or HC-06) with Arduino. (Caution: Lookout for loose connections)
+ 1. Make the connections of the bluetooth module (HC-05 or HC-06) with Arduino. (Caution: Lookout for loose connections)
 	(Note: Bluetooth module may need 5v instead of 3.3v to work)
  2. Install the app(apk file) in phone. (Note: Enable Allow installation from unknown sources and ignore Google play protect notification)
  3. Make sure to power the arduino by connecting with PC or external power source.
- 4. Enable bluetooth on device.
+ 4. Enable bluetooth on device/android smartphone.
  5. Pair with the bluetooth module (HC-06 or HC-05) (Note: Password is 0000 or 1234)
  6. Tap on Connect to connect to blutooth module (HC-05 or HC-06) and select the device from available devices.
  7. Tap Power On to switch ON LED.
